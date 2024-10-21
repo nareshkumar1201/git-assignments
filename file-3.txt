@@ -4,3 +4,5 @@ this is the third file created to practice git commands
 it will be deleted 
 
 please add me to master or main branch
+
+this is 4 line added to file-3 file to practice stash
