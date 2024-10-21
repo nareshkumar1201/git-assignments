@@ -1,0 +1,3 @@
+this is the file to practice the git assignment 
+
+this is another line add after adding file to staging area 
