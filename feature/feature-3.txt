@@ -1,0 +1,3 @@
+this is feature-3 txt file to practice the git commands
+
+added a line in feature-3 file
